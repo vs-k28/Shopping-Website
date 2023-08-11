@@ -23,7 +23,7 @@ The website includes a variety of animations, including a typing effect on the h
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube](https://youtu.be/2sCmWmOGqMY).
+Click the images above or watch the demo video on [YouTube]().
 
 
 ## Tech Stack
