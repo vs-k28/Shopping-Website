@@ -49,4 +49,6 @@ Watch the demo video on [YouTube](https://youtu.be/Ybejqh6h3nk).
 
 **IDE:** Visual Studio Code
 
+#### Visit Website: https://shopping-app-clone.netlify.app/
+
 
